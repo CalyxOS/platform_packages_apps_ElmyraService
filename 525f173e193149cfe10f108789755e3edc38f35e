@@ -16,6 +16,24 @@
       "revId": "525f173e193149cfe10f108789755e3edc38f35e",
       "serverId": "35266860-6252-469c-a67d-185064479fc0",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "c67081cc_3024c3fb",
+        "filename": "src/org/protonaosp/elmyra/BootReceiver.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2021-04-17T11:52:34Z",
+      "side": 1,
+      "message": "Yep. That\u0027s how I tested this",
+      "parentUuid": "34ba5991_75c9af3c",
+      "revId": "525f173e193149cfe10f108789755e3edc38f35e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0",
+      "unresolved": true
     }
   ]
 }
