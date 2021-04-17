@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "34ba5991_75c9af3c",
+        "filename": "src/org/protonaosp/elmyra/BootReceiver.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-04-17T10:53:18Z",
+      "side": 1,
+      "message": "Will this work for https://review.calyxos.org/q/topic:%22unmanaged-profile%22",
+      "revId": "525f173e193149cfe10f108789755e3edc38f35e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0",
+      "unresolved": true
+    }
+  ]
+}
