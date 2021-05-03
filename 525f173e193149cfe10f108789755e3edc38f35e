@@ -34,6 +34,24 @@
       "revId": "525f173e193149cfe10f108789755e3edc38f35e",
       "serverId": "35266860-6252-469c-a67d-185064479fc0",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "a33c0be0_48654434",
+        "filename": "src/org/protonaosp/elmyra/BootReceiver.kt",
+        "patchSetId": 1
+      },
+      "lineNbr": 27,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2021-05-03T13:41:17Z",
+      "side": 1,
+      "message": "Marking resolved.",
+      "parentUuid": "c67081cc_3024c3fb",
+      "revId": "525f173e193149cfe10f108789755e3edc38f35e",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0",
+      "unresolved": false
     }
   ]
 }
