@@ -16,6 +16,24 @@
       "message": "sent upstream?",
       "revId": "513fb04ac0a6f7c5f11e44137ee6a728e93ee78c",
       "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2770d5b0_5a32eb05",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2022-09-05T11:35:48Z",
+      "side": 1,
+      "message": "To Lineage, there\u0027s no Proton 13 branch afaik",
+      "parentUuid": "24afe49c_14e48347",
+      "revId": "513fb04ac0a6f7c5f11e44137ee6a728e93ee78c",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
     }
   ]
 }
