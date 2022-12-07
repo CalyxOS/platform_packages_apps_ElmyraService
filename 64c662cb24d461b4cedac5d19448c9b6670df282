@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f2422bdb_4674f96c",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-12-07T23:16:43Z",
+      "side": 1,
+      "message": "Test: Squeeze",
+      "revId": "64c662cb24d461b4cedac5d19448c9b6670df282",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
