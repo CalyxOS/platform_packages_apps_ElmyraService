@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "16721b22_84ada1cb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2023-10-05T16:25:32Z",
+      "side": 1,
+      "message": "Pixel 4 and lower, skipping for now.",
+      "revId": "d9ac206834b4ce885e9f3c3a79463b47b8b118d0",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
