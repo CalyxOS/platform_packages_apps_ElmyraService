@@ -33,7 +33,7 @@ class SummaryProvider : ContentProvider() {
     private lateinit var prefs: SharedPreferences
 
     override fun onCreate(): Boolean {
-        prefs = context.getDePrefs()
+        prefs = requireContext().getDePrefs()
         return true
     }
 
@@ -41,9 +41,12 @@ class SummaryProvider : ContentProvider() {
         val bundle = Bundle()
         val summary = when (method) {
             "entry" -> if (prefs.getEnabled(context)) {
-                context.getString(R.string.settings_entry_summary_on, prefs.getActionName(context))
+                requireContext().getString(
+                    R.string.settings_entry_summary_on,
+                    prefs.getActionName(context)
+                )
             } else {
-                context.getString(R.string.settings_entry_summary_off)
+                requireContext().getString(R.string.settings_entry_summary_off)
             }
             else -> throw IllegalArgumentException("Unknown method: $method")
         }
