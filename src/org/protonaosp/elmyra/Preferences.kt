@@ -27,22 +27,22 @@ fun Context.getDePrefs(): SharedPreferences {
 }
 
 fun SharedPreferences.getEnabled(context: Context): Boolean {
-    return getBoolean(context.getString(R.string.pref_key_enabled),
+    return context.getBoolean(context.getString(R.string.pref_key_enabled),
             context.resources.getBoolean(R.bool.default_enabled))
 }
 
 fun SharedPreferences.getAction(context: Context): String {
-    return getString(context.getString(R.string.pref_key_action),
+    return context.getString(context.getString(R.string.pref_key_action),
             context.getString(R.string.default_action))
 }
 
 fun SharedPreferences.getAllowScreenOff(context: Context): Boolean {
-    return getBoolean(context.getString(R.string.pref_key_allow_screen_off),
+    return context.getBoolean(context.getString(R.string.pref_key_allow_screen_off),
             context.resources.getBoolean(R.bool.default_allow_screen_off))
 }
 
 fun SharedPreferences.getSensitivity(context: Context): Int {
-    return getInt(context.getString(R.string.pref_key_sensitivity),
+    return context.getInt(context.getString(R.string.pref_key_sensitivity),
             context.resources.getInteger(R.integer.default_sensitivity))
 }
 
