@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b809ef95_427c90b3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000004
+      },
+      "writtenOn": "2024-12-24T16:40:03Z",
+      "side": 1,
+      "message": "Doesn\u0027t affect current shipping devices",
+      "revId": "6babddb1e07a1ccc0a3df138a27f81876496a375",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
